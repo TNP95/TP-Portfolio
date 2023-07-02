@@ -9,7 +9,7 @@ import Footer from "./assets/componentes/Footer";
 
 function App() {
   return (
-    <div className="bg-red-500">
+    <div>
       <Header />
 
       <div className="flex justify-center mt-20">
